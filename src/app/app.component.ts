@@ -7,10 +7,7 @@ import { User } from './User';
 })
 export class AppComponent {
 
-  userInformation:User[]=[];
-  addUser(form){
-   console.log(form.value);
-  }
+  
 
 
   
